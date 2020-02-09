@@ -11,8 +11,7 @@ When adding a recipe, the following window will be displayed.
 
 ![novaReceitaCategoria](https://user-images.githubusercontent.com/25267873/74103950-41aff300-4b48-11ea-9764-5ba1209d3920.PNG)
 
-This allows to add both a recipe, and a category. 
-I.e. the recipe "Tiramisu" would be within "Desserts" category, for an easy search. 
+This allows to add both a recipe, and a category (i.e. the "Tiramisu" recipe would be within "Desserts" category).
 
 The recipe content would include:
 * Name of the recipe
@@ -24,7 +23,7 @@ When visualizing a recipe, the following window will be displayed.
 
 ![verReceitas](https://user-images.githubusercontent.com/25267873/74103955-44124d00-4b48-11ea-898b-9410f64eb629.PNG)
 
-Where the recipe dialog box would prompt the recipes based on the category chosen on its left. Then, after selecting a recipe, the name, ingredients, preparation and comment would be filled out.
+Where the recipe dialog box would prompt the recipes based on the category chosen on its left. Then, after selecting a recipe, the ingredients, preparation and comment would be filled out.
 
 When editing a recipe, the following window will be displayed. This is similar to the visualization window, with the difference that the text boxes are editable, and, therefore, the recipe can be improved.
 
