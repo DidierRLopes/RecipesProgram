@@ -34,3 +34,5 @@ Note, that throughout the program there are Message Dialog boxes (as shown above
 Finally, in order to remove a recipe, the following window would be displayed. Where you can either delete a single recipe, or the entire category.
 
 ![removerReceita](https://user-images.githubusercontent.com/25267873/74103954-4379b680-4b48-11ea-8a7c-dd216565afb3.PNG)
+
+All the recipe database is handled in the most robust possible way :) with plain text files, obviously.
